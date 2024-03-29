@@ -3,7 +3,7 @@
 Here, we present new experimental results along with a more intuitive description of the datasets.
 
 # 1. Re-experimentation on Baselines With and Without Structural Constraint Module
-![Image](https://github.com/hang53/ICML_Rebuttal/blob/main/1.png)
+![Image](1.png)
 
 We have included new graphs regarding the experimental results of baselines with and without structural constraint module, with dashed lines representing MDGS performance under different conditions.
 
