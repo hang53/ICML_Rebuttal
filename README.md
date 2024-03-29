@@ -18,16 +18,20 @@ We have included new graphs regarding the experimental results of baselines with
 # 5. The Experimental Visualization Results on The Vehicle Dataset
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/3117f3a7-980c-4f77-ba8e-b882b074f68d)
 
+From the visualization results, it can be observed that MDGS provides more accurate predictions of vehicle trajectory, owing to its better understanding of the intricate mechanical interactions and interplay forces within the vehicle.
+
 # 6. The Experimental Visualization Results on The Cubli Robot (Three Flywheels) Dataset
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/b841eaa6-3276-431f-aa01-e56af8535dcb)
 
+From the visualization results, it is evident that MDGS provides more accurate trajectory predictions for the Cubli robot. An interesting observation is that baseline methods, due to their inability to capture internal interactions within the mechanical body effectively, neglect the influence of reaction wheels, resulting in significant deviations in attitude predictions for the Cubli robot.
+
 # 7. The Experimental Results on The Vehicle Dataset
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/05d75e2d-96b2-44c9-bc72-6a1e4bc15f20)
-From the visualization results, it can be observed that MDGS provides more accurate predictions of vehicle trajectory, owing to its better understanding of the intricate mechanical interactions and interplay forces within the vehicle.
+
 
 # 8. The Experimental Results on The Vehicle with Obstacles Dataset
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/56f99413-0f85-485e-9c92-bfcd94026df9)
-From the visualization results, it is evident that MDGS provides more accurate trajectory predictions for the Cubli robot. An interesting observation is that baseline methods, due to their inability to effectively capture internal interactions within the mechanical body, neglect the influence of reaction wheels, resulting in significant deviations in attitude predictions for the Cubli robot.
+
 
 # 9. The Experimental Results on The Damaged Vehicle Dataset
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/6154e8bd-3331-4d6b-b5e5-dfafd7588d8e)
