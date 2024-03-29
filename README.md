@@ -25,7 +25,7 @@ We have included new graphs regarding the experimental results of baselines with
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/05d75e2d-96b2-44c9-bc72-6a1e4bc15f20)
 
 # 8. The Experimental Results on The Vehicle with Obstacles Dataset
-![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/6154e8bd-3331-4d6b-b5e5-dfafd7588d8e)
+![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/56f99413-0f85-485e-9c92-bfcd94026df9)
 
 # 9. The Experimental Results on The Damaged Vehicle Dataset
-![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/56f99413-0f85-485e-9c92-bfcd94026df9)
+![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/6154e8bd-3331-4d6b-b5e5-dfafd7588d8e)
