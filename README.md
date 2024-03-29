@@ -14,3 +14,6 @@ We have included new graphs regarding the experimental results of baselines with
 
 # 4. Illustration of Different Forms of Vehicle Utilized in The Newly Conducted Experiments
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/e1e5ebd0-78da-4025-a4a1-f765af086155)
+
+# 5. The experimental visualization results on the vehicle dataset
+
