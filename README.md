@@ -16,7 +16,7 @@ We have included new graphs regarding the experimental results of baselines with
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/e1e5ebd0-78da-4025-a4a1-f765af086155)
 
 # 5. The Experimental Visualization Results on The Vehicle Dataset
+![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/3117f3a7-980c-4f77-ba8e-b882b074f68d)
 
-
-
-# 5. The Experimental Visualization Results on The Cubli Robot (Three Flywheels) Dataset
+# 6. The Experimental Visualization Results on The Cubli Robot (Three Flywheels) Dataset
+![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/b841eaa6-3276-431f-aa01-e56af8535dcb)
