@@ -16,4 +16,5 @@ We have included new graphs regarding the experimental results of baselines with
 ![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/e1e5ebd0-78da-4025-a4a1-f765af086155)
 
 # 5. The experimental visualization results on the vehicle dataset
+![图片](https://github.com/hang53/ICML_Rebuttal/assets/83813839/1a0f5d84-c83d-42a9-a3f4-913f88fbd628)
 
